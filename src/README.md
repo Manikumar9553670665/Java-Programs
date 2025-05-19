@@ -18,3 +18,6 @@ How to use
 
 How to use
 1. Run the program
+
+4)Java Program for String Reversal and Palindrome Checker
+1. Run The program
