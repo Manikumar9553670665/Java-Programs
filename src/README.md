@@ -21,3 +21,8 @@ How to use
 
 4)Java Program for String Reversal and Palindrome Checker
 1. Run The program
+
+5)Java program for Factorial and febonacci 
+usage
+1. Run the program
+2. Enter a number
