@@ -26,3 +26,7 @@ How to use
 usage
 1. Run the program
 2. Enter a number
+
+6)Java program for Oops Basics(Class, Object)
+Usage
+1.Run the program
