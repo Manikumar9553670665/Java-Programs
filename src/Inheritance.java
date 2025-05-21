@@ -11,7 +11,7 @@ class Person{
     }
 }
 class Employee extends Person{
-    private String jobTitle;
+    private final String jobTitle;
     public Employee(String name, int age, String jobTitle) {
         super(name, age);
         this.jobTitle = jobTitle;
@@ -23,7 +23,7 @@ class Employee extends Person{
     }
 }
 class Student extends Person {
-    private String major;
+    private final String major;
 
     public Student(String name, int age, String major) {
         super(name, age);
@@ -39,7 +39,7 @@ class Student extends Person {
 public class Inheritance {
     public static void main(String[] args) {
         Employee emp = new Employee("Mani", 26, "Software Engineer");
-        Student stu = new Student("kevin", 20, "Computer Science");
+        Student stu = new Student("kevin", 22, "Computer Science");
 
         emp.displayDetails();
         System.out.println();
