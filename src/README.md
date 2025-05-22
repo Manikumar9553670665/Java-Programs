@@ -34,3 +34,7 @@ Usage
 8) Java program for Inheritance
 How to use
 1. Run the program
+
+9) Java program for polymorphism Method overloading and method overriding
+How to use
+1.Run the program
