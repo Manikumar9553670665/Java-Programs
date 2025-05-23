@@ -38,3 +38,6 @@ How to use
 9) Java program for polymorphism Method overloading and method overriding
 How to use
 1.Run the program
+10) Java Program for demonstrates both interfaces and abstract classes
+How to Use
+1.Run the Program
