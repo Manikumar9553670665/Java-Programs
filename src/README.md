@@ -47,9 +47,11 @@ How to Use
 How to use
 1.Run the program
 
-12)Java Program for Arraylist and linkedlistlist usage with custom object
+12)Java Program for HashMap and Treemap
 how to use
 1.Run the program
-13) Java Program for HashMap and Treemap
-how to use
-1.Run the program
+
+13)Java Program for Exception Handling
+1. Run the program
+2. Enter a number divided by 100
+3. Enter your Age for registration
