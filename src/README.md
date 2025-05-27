@@ -46,3 +46,7 @@ How to Use
 11)Java Program for Arraylist and linkedlist Usage with custom object.
 How to use
 1.Run the program
+
+12)Java Program for Arraylist and linkedlistlist usage with custom object
+how to use
+1.Run the program
