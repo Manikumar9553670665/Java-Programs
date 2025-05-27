@@ -50,3 +50,6 @@ How to use
 12)Java Program for Arraylist and linkedlistlist usage with custom object
 how to use
 1.Run the program
+13) Java Program for HashMap and Treemap
+how to use
+1.Run the program
