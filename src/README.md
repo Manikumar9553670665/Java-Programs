@@ -55,3 +55,7 @@ how to use
 1. Run the program
 2. Enter a number divided by 100
 3. Enter your Age for registration
+
+14)Java Program for Member Management System
+1.Run the program
+2. Choose an option from the list
