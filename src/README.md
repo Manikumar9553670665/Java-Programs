@@ -59,3 +59,7 @@ how to use
 14)Java Program for Member Management System
 1.Run the program
 2. Choose an option from the list
+
+15)Java Program to connect JDBC
+1. Add Jar file
+2.Run the program
