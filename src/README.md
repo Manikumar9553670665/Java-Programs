@@ -63,3 +63,6 @@ how to use
 15)Java Program to connect JDBC
 1. Add Jar file
 2.Run the program
+
+16)Java Program for JDBC CRUD Operations
+1.Run the program
